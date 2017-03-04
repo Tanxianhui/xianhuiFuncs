@@ -1,0 +1,15 @@
+{
+  "name": "mainfun",
+  "version": "1.0.0",
+  "description": "the functions of xianhui",
+  "main": "fun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "functions"
+  ],
+  "author": "tanxianhui",
+  "license": "ISC"
+}
